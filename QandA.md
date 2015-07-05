@@ -43,7 +43,7 @@
     Public          Library             
     VirtualBox VMs
     ubuntu-workstation /media/sf_nispc $
-    ```
+```
 
 ##Q4：ssh為什麼無法連線？
 請在 cygwin （Mac 請直接開啟 Terminal.app 即可，無須安裝 cygwin）底下執行 ssh 指令，不是在 VirtualBox 底下執行，VirtualBox 裡面的 Linux 通常會是鎖在機房裡面的伺服器，所以要用我們的 cygwin
